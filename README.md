@@ -70,8 +70,8 @@
            <hr> 
 
         <form>
-         <p class = "keep">Favorite match : <input type = "text" name="Fav match" place holder = "fav match" size ="20" max length = "20"</P>
-          <p class = "keep">Favorite team : <input type = "text" name="Fav team" place holder = "fav team" size ="20" max length = "20"</P>
+         <p class = "keep">Favorite match : <input type = "text" name="Fav match" place holder = "fav match" size ="20" max length = "20"></P>
+          <p class = "keep">Favorite team : <input type = "text" name="Fav team" place holder = "fav team" size ="20" max length = "20"></P>
           <p class = "keep">Virat kohli :<input type = "radio" name = "like" value = "fan">Fan
                            <input type = "radio" name = "like">Hater</p>
            
